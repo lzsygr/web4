@@ -1,0 +1,31 @@
+.DS_Store
+.DS_Store?
+node_modules/
+/dist/
+/build/
+.sonar/
+src/mytest/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+._*
+Thumbs.db
+
+
+# 最好是解压这些压缩包
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
